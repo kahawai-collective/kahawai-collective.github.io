@@ -4,9 +4,9 @@ author: The Kahawai Collective
 description: Supporting reproducible fisheries research
 
 # Build settings
-plugins:
-  - jekyll-seo-tag
-  - jekyll-avatar
+# plugins:
+#   - jekyll-seo-tag
+#   - jekyll-avatar
 
 oscailte:
   social:
