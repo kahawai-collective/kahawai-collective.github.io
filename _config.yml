@@ -1,9 +1,11 @@
 remote_theme: coogie/oscailte
 title: The Kahawai Collective
 author: The Kahawai Collective
+description: Supporting reproducible fisheries research
 
 # Build settings
 plugins:
+  - jekyll-seo-tag
   - jekyll-avatar
 
 oscailte:
