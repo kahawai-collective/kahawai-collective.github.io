@@ -1,4 +1,6 @@
 remote_theme: coogie/oscailte
 title: The Kahawai Collective
-strings:
-  hero_title: "The Kahawai Collective<br> Collaborating to support reproducible fisheries science."
+
+oscailte:
+  strings:
+    hero_title: "The Kahawai Collective<br> Collaborating to support reproducible fisheries science."
