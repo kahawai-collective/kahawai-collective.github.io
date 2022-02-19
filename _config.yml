@@ -1,6 +1,13 @@
 remote_theme: coogie/oscailte
 title: The Kahawai Collective
+author: The Kahawai Collective
+
+# Build settings
+plugins:
+  - jekyll-avatar
 
 oscailte:
+  social:
+    github: kahawai-collective
   strings:
     hero_title: "The Kahawai Collective<br> Collaborating to support reproducible fisheries science."
