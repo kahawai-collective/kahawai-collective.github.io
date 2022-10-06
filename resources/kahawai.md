@@ -1,8 +1,11 @@
 ---
 layout: resource
-title: "The kahawai reporting system"
+title: "The Kahawai reporting system"
 author: "David Middleton"
 ---
 
+The Kahawai reporting system facilitates **reproducible research** using data from fisheries databases. Using a continuous integration and delivery approach, the Kahawai system:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+- streamlines the generation of reports, creating **efficiency**
+- encourages sharing and collaboration, building a culture of **openness**
+- allows activity to be checked and audited, ensuring **confidence** in the use of data and in the results delivered.
