@@ -1,0 +1,14 @@
+---
+layout: core
+---
+<header>
+  {% include hero.html title=page.title %}
+</header>
+
+<div class="Container">
+  <article>
+    {{ page.content }}
+  </article>
+
+  {%- include comments.html -%}
+</div>
