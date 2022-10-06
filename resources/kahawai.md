@@ -29,12 +29,14 @@ Each time the code for a report is run, a new job is created. Gateaux keeps a re
 
 ### Databases
 
-The Kahawai system provides users (subject to authorisation and access control procedures) with access to a range of databases. These are generally SQL databases running on a PostgreSQL server with the PostGIS extensions to facilitate spatial queries. The majority of the Kahawai databases are reporting databases; that is, they are curated copies of data designed support fisheries data analyses, rather than databases designed for maintenance of original data.
+The Kahawai system provides users (subject to authorisation and access control procedures) with access to a range of databases. These are generally SQL databases running on a PostgreSQL server with the PostGIS extensions to facilitate spatial queries.
 
-These reporting databases are themselves built by as Kahawai reports, from a variety of source data.
+The majority of the Kahawai databases are reporting databases; that is, they are curated copies of data designed support fisheries data analyses, rather than databases designed for maintenance of original data. These reporting databases are themselves built by as Kahawai reports, from a variety of source data.
 
 #### The kahawai database
 
-The *kahawai* database is a curated reporting database built from data extracts provided by Fisheries New Zealand. In particular, the kahawai database's *edw* schema maintains a copy of statutory catch, efforts and landings data from New Zealand fisheries. A key part of the kahawai database build process is the application of standard *grooming rules* that identify, and then flag or fix, known issues with the source data. The kahawai database also implements standard *catch allocation* procedures that allocate trip-resolution landings data back to the individual fishing events within a trip.
+The *kahawai database* is a curated reporting database built from data extracts provided by Fisheries New Zealand. In particular, the kahawai database's *edw* schema maintains a copy of statutory catch, efforts and landings data from New Zealand fisheries.
+
+A key part of the kahawai database build process is the application of standard *grooming rules* that identify, and then flag or fix, known issues with the source data. The kahawai database also implements standard *catch allocation* procedures that allocate trip-resolution landings data back to the individual fishing events within a trip.
 
 The kahawai database thus provides a standardised implementation of a range of data analysis procedures that have been developed over time and accepted as best practice by Fisheries New Zealand's Fisheries Assessment Working Groups.
