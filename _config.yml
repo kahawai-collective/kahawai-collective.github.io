@@ -13,3 +13,8 @@ oscailte:
     github: kahawai-collective
   strings:
     hero_title: "The Kahawai Collective<br> Collaborating to support reproducible fisheries science."
+
+header_pages:
+ - about.md
+ - index.md
+ 
