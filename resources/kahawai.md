@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The kahawai reporting system"
 author: "David Middleton"
 ---
