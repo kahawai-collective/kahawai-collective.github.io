@@ -17,11 +17,11 @@ The Kahawai reporting system facilitates **reproducible research** using data fr
 For further information on the advantages of the Kahawai reporting system see:
 
 > **Implementing Reproducible Fisheries Research: A Decade of Experience With the Kahawai Reporting System**
-
+>
 > David A. J. Middleton, Finlay N. Thompson, Adam D. Langley, Philipp Neubauer
-
+>
 > Journal of the Royal Society of New Zealand 2026, 56, e70011. 
-
+>
 > [Full paper][jrsnz_doi]
 
 ## Components
