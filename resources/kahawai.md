@@ -16,10 +16,13 @@ The Kahawai reporting system facilitates **reproducible research** using data fr
 
 For further information on the advantages of the Kahawai reporting system see:
 
-> Implementing Reproducible Fisheries Research: A Decade of Experience With the Kahawai Reporting System
+> **Implementing Reproducible Fisheries Research: A Decade of Experience With the Kahawai Reporting System**
+
 > David A. J. Middleton, Finlay N. Thompson, Adam D. Langley, Philipp Neubauer
+
 > Journal of the Royal Society of New Zealand 2026, 56, e70011. 
-> [DOI][https://doi.org/10.1002/snz2.70011]
+
+> [Full paper][jrsnz_doi]
 
 ## Components
 
@@ -49,3 +52,5 @@ The *kahawai database* is a curated reporting database built from data extracts 
 A key part of the kahawai database build process is the application of standard *grooming rules* that identify, and then flag or fix, known issues with the source data. The kahawai database also implements standard *catch allocation* procedures that allocate trip-resolution landings data back to the individual fishing events within a trip.
 
 The kahawai database thus provides a standardised implementation of a range of data analysis procedures that have been developed over time and accepted as best practice by Fisheries New Zealand's Fisheries Assessment Working Groups.
+
+[jrsnz_doi]: https://doi.org/10.1002/snz2.70011
