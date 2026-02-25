@@ -12,6 +12,15 @@ The Kahawai reporting system facilitates **reproducible research** using data fr
 - encourages sharing and collaboration, building a culture of **openness**
 - allows activity to be checked and audited, ensuring **confidence** in the use of data and in the results delivered.
 
+## Advantages
+
+For further information on the advantages of the Kahawai reporting system see:
+
+> Implementing Reproducible Fisheries Research: A Decade of Experience With the Kahawai Reporting System
+> David A. J. Middleton, Finlay N. Thompson, Adam D. Langley, Philipp Neubauer
+> Journal of the Royal Society of New Zealand 2026, 56, e70011. 
+> [DOI][https://doi.org/10.1002/snz2.70011]
+
 ## Components
 
 The Kahawai system consists of two key components:
