@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: post
 title: "The Kahawai reporting system"
 author: "David Middleton"
 ---
 
 # The Kahawai reporting system
+
+<img src="resources/kahawai_io_logo_v1.0" alt="kahawai.io">
 
 The Kahawai reporting system facilitates **reproducible research** using data from fisheries databases. Using a continuous integration and delivery approach, the Kahawai system:
 
