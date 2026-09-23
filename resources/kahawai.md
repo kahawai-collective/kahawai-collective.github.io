@@ -53,6 +53,6 @@ The *kahawai database* is a curated reporting database built from data extracts 
 
 A key part of the kahawai database build process is the application of standard *grooming rules* that identify, and then flag or fix, known issues with the source data. The kahawai database also implements standard *catch allocation* procedures that allocate trip-resolution landings data back to the individual fishing events within a trip.
 
-The kahawai database thus provides a standardised implementation of a range of data analysis procedures that have been developed over time and accepted as best practice by Fisheries New Zealand's Fisheries Assessment Working Groups.
+The [kahawai database](https://kahawai.org.nz/resources/kahawai-db-documentation) thus provides a standardised implementation of a range of data analysis procedures that have been developed over time and accepted as best practice by Fisheries New Zealand's Fisheries Assessment Working Groups.
 
 [jrsnz_doi]: https://doi.org/10.1002/snz2.70011

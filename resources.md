@@ -8,7 +8,7 @@ permalink: /resources/
 ## Reproducible fisheries research
 [![kahawai.io](/images/kahawai_io_logo_v1.png)](kahawai)
 
-The [Kahawai reporting system](kahawai) facilitates **reproducible research** using data from fisheries databases.
+The [Kahawai reporting system](kahawai) facilitates **reproducible research** using data from fisheries databases. The [kahawai database](https://kahawai.org.nz/resources/kahawai-db-documentation) is a research-focussed version of several New Zealand fisheries databases.
 
 ## Understanding New Zealand fisheries
 [![fonz.kahawai.org.nz](/images/fonz-logo-new.svg){: style="width: 40%; height: auto;"}](https://fonz.kahawai.org.nz/)
